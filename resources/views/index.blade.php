@@ -22,7 +22,7 @@
 
             <div class="card">
                 <div class="card-header">
-                    <h3>Add Department</h3>
+                    <h3>Add User</h3>
                 </div>
                 <div class="card-body">
                     {{--                    <form action="{{route('add.ajax')}}" method="post" enctype="multipart/form-data">--}}
